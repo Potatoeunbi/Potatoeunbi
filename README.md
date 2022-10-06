@@ -46,6 +46,4 @@ Here are some ideas to get you started:
 ##### - 2022년 5월 14일 한국멀티미디어학회 주최 "학부생 논문 경진대회" 대상 - 팀 출전, 블록체인 기술을 활용한 문제은행 시스템의 구현과 시험
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoeunbi)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api?username=[potatoeunbi]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatoeunbi&show_icons=true&theme=dark)
