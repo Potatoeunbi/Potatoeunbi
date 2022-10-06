@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ##
-* I am currently developing the web for the 2023 u20 World Championships in Athletics. 🏃‍♂️
-* I am currently studying node.js as a personal study. 🖊️
-* I studied about blockchain and developed a web related to it. 📝
+* I am currently developing the web for **the 2023 u20 World Championships in Athletics.** 🏃‍♂️
+* I am currently studying **node.js** as a personal study. 🖊️
+* I studied about **blockchain** and developed a web related to it. 📝
 ##  
 
 ##
