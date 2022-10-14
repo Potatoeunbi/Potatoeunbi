@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ##### - 2021년 7월 23일 국립안동대학교 SW융합교육원 "창업 아이디어 경진대회(상반기)" 우수상 - NGL Defender 팀, 리눅스 종합 보안 툴
 ##### - 2021년 12월 17일 국립안동대학교 SW융합교육원 "2021년 SW문제해결 알고리즘 경진대회(초급반)" 장려상
 ##### - 2022년 5월 14일 한국멀티미디어학회 주최 "학부생 논문 경진대회" 대상 - 팀 출전, 블록체인 기술을 활용한 문제은행 시스템의 구현과 시험
+##### - 2022년 6월 22 ~ 24일 2022 SW 중심대학 공동해커톤 출전 "함께놀자" - 얼리버드 팀, https://github.com/LeeJungHwan-Dev/We_Play
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatoeunbi&show_icons=true&theme=omni)
