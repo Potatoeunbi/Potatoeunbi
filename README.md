@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 ##  
 
 ##
+<div align="center">
 ### 👩‍💻Studying!!!👩‍💻
+</div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +41,10 @@ Here are some ideas to get you started:
             
 
 ## 
+
+<div align="center">
 ### 📃Antecedents!!!📃
+</div>
 ##### - 2021년 7월 23일 국립안동대학교 SW융합교육원 "창업 아이디어 경진대회(상반기)" 우수상 - NGL Defender 팀, 리눅스 종합 보안 툴
 ##### - 2021년 8월 21일 국립안동대학교&대구가톨릭대학교 "제3회 전국 고등학생 사이버 경진대회" 사이트 개설 및 관리 팀
 ##### - 2021년 12월 17일 국립안동대학교 SW융합교육원 "2021년 SW문제해결 알고리즘 경진대회(초급반)" 장려상
