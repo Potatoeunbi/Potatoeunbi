@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-* I am currently developing the web for **the 2023 u20 World Championships in Athletics.** 🏃‍♂️
+* I am currently developing the web for **the 2023 20 World Championships in Athletics.** 🏃‍♂️
 * I studied about **blockchain** and developed a web related to it. 📝
 ##  
 
