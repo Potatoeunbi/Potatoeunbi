@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ##
-* I am currently doing an **ICT internship** at a company called weven.
+* I am currently working for a company called weven.
+* I did an **ICT internship** at a company called weven.
 * I developed the web for **the 2023 U20 World Championships in Athletics.** 🏃‍♂️
 * I studied about **blockchain** and developed a web related to it. 📝
 ##  
